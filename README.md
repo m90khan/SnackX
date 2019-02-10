@@ -1,3 +1,6 @@
 # SnackX
 App Landing Page for Food Delivery Platform
-<img src= "overview.png">
+
+<img src="snackx.gif">
+
+<img src= "snackx.jpg">
